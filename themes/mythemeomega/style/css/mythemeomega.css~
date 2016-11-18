@@ -1,0 +1,5 @@
+/* SAMPLE CSS FILE CONTENTS */
+
+body {
+color:green;
+}
